@@ -1,0 +1,2 @@
+#!/bin/bash
+pkg install libxfce4ui-static libxfce4ui libxfce4util-static libxfce4util xfce4-appfinder xfce4-calculator-plugin-static xfce4-calculator-plugin xfce4-clipman-plugin-static xfce4-clipman-plugin xfce4-datetime-plugin-staticvxfce4-datetime-plugin xfce4-mailwatch-plugin-static xfce4-mailwatch-plugin xfce4-panel-profiles xfce4-panel-static xfce4-panel xfce4-session xfce4-settings xfce4-taskmanager xfce4-terminal xfce4-whiskermenu-plugin xfce4 x11-repo openssh-server tigervnc -y
