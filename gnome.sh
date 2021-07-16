@@ -1,2 +1,2 @@
 #!/bin/bash
-pkg install libgnomecanvas-static libgnomecanvas x11-repo tigervnc opehssh-server -y
+pkg install libgnomecanvas-static libgnomecanvas x11-repo tigervnc openssh-server -y
